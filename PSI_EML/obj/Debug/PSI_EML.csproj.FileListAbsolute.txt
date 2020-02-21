@@ -1,0 +1,14 @@
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\bin\Debug\PSI_EML.exe.config
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\bin\Debug\PSI_EML.exe
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\bin\Debug\PSI_EML.pdb
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.csprojAssemblyReference.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\MainWindow.g.cs
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\App.g.cs
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML_MarkupCompile.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML_MarkupCompile.lref
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\MainWindow.baml
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.g.resources
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.Properties.Resources.resources
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.csproj.GenerateResource.cache
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.exe
+C:\Users\eleni\OneDrive\Escritorio\Spring 2020\CS 311\PSI_EML\PSI_EML\obj\Debug\PSI_EML.pdb
